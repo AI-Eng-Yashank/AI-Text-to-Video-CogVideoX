@@ -21,7 +21,7 @@ This project demonstrates **AI-powered text-to-video generation** using [CogVide
 
 Run it on Colab:  
 
-[![Open In Colab](https://colab.research.google.com/drive/1uROrSXSfqxJ8h1x8biD0z9znyrBpUiBl#scrollTo=MD83jDvI2RWD)
+[![Open In Colab]([https://colab.research.google.com/drive/1uROrSXSfqxJ8h1x8biD0z9znyrBpUiBl#scrollTo=MD83jDvI2RWD](https://colab.research.google.com/drive/1uROrSXSfqxJ8h1x8biD0z9znyrBpUiBl?usp=sharing))
 
 ---
 
