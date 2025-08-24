@@ -13,7 +13,7 @@ This project demonstrates **AI-powered text-to-video generation** using [CogVide
 
 ## 📽️ Demo
 
-👉 [Watch Demo (12s)](demo.mp4)
+👉 [Watch Demo (12s)](output_full_12s.mp4)
 
 ---
 
